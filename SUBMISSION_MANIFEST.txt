@@ -1,0 +1,6 @@
+DOCUMENT: ESQET_Whitepaper_v2.0.pdf
+AUTHOR: Marco Antônio Rocha Jr.
+ORCID: 0009-0004-9757-2853
+DOI TARGET: Figshare/Zenodo
+VERSION: 2.0.0 (Production)
+SUMMARY: 24/24 Physics Unification via phi-torsion flow.
