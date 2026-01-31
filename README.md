@@ -7,7 +7,9 @@
 - **Master Action**: Integration of $\phi$-torsion coherence into standard GR/QM frameworks.
 
 ## 📍 Field Validation
-Data included from the **Cañon City Field Station** (38.4419°N) confirming $\phi^4$ threshold anomalies.
+Data included from the **Cañon City Field Station** (38.4419°N) confirming $\phi^4$ threshold anomalies in local spacetime geometry.
 
 ## 📚 Publications
+- **Whitepaper**: `ESQET_Whitepaper_v2.0.pdf`
 - **ORCID**: [0009-0004-9757-2853](https://orcid.org/0009-0004-9757-2853)
+- **DOI**: (Pending Zenodo/Figshare Sync)
